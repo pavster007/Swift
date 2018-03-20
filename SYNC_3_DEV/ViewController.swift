@@ -3,7 +3,7 @@
 //  SYNC_3_DEV
 //
 //  Created by James Pravato on 20/03/2018.
-//  Copyright © 2018 James Pravato. All rights reserved......
+//  Copyright © 2018 James Pravato. All rights reserved.
 //
 
 import UIKit
